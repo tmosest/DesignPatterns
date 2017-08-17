@@ -1,0 +1,14 @@
+{
+	"autoload": {
+		"psr-0": {
+			"DesignPatters\\": "./"
+		}
+  	},
+	"require": {
+		"php": "^7.0"
+	},
+	"scripts": {
+    },
+	"require-dev": {
+	}
+}
